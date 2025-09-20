@@ -28,7 +28,7 @@ npm run dev
 
 ## Project Structure
 
-`
+```
 buhler-shopping-cart/
 ├── public/              # Static files
 ├── src/
@@ -43,3 +43,5 @@ buhler-shopping-cart/
 ├── .env                 # Environment variables
 ├── package.json         # Project dependencies and scripts
 └── vite.config.js       # Vite configuration
+```
+
